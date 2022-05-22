@@ -1,3 +1,3 @@
-let If-None-Match = ''
-let If-Modified-Since = ''
+If-None-Match = ''
+If-Modified-Since = ''
 $done(headers);
