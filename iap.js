@@ -105,7 +105,7 @@ body = {
       "channel_goodsids" : {
         "app_store" : "com.netease.sky.SPASSG"
       },
-      "price" : 68,
+      "price" : 30,
       "platform" : "ios",
       "gold" : 1,
       "channel_goodstypes" : {
@@ -149,7 +149,7 @@ body = {
       "channel_goodsids" : {
         "app_store" : "com.netease.sky.SPASSQP3"
       },
-      "price" : 128,
+      "price" : 30,
       "platform" : "ios",
       "gold" : 1,
       "channel_goodstypes" : {
@@ -413,7 +413,7 @@ body = {
       "channel_goodsids" : {
         "app_store" : "com.netease.sky.NC01"
       },
-      "price" : 198,
+      "price" : 30,
       "platform" : "ios",
       "gold" : 1,
       "channel_goodstypes" : {
@@ -435,7 +435,7 @@ body = {
       "channel_goodsids" : {
         "app_store" : "com.netease.sky.SPASSQR"
       },
-      "price" : 68,
+      "price" : 30,
       "platform" : "ios",
       "gold" : 1,
       "channel_goodstypes" : {
@@ -567,7 +567,7 @@ body = {
       "channel_goodsids" : {
         "app_store" : "com.netease.sky.CDL20"
       },
-      "price" : 128,
+      "price" : 30,
       "platform" : "ios",
       "gold" : 1,
       "channel_goodstypes" : {
