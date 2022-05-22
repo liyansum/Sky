@@ -316,11 +316,11 @@ body = {
       "extra" : {
 
       },
-      "pay_yuanbao" : 15,
+      "pay_yuanbao" : 0,
       "ratios" : {
 
       },
-      "free_yuanbao" : 2,
+      "free_yuanbao" : 0,
       "goodsinfo" : "亲密无间礼包",
       "channel_goodsids" : {
         "app_store" : "com.netease.sky.CDL5"
@@ -624,16 +624,16 @@ body = {
       "extra" : {
 
       },
-      "pay_yuanbao" : 0,
+      "pay_yuanbao" : 15,
       "ratios" : {
 
       },
-      "free_yuanbao" : 0,
+      "free_yuanbao" : 2,
       "goodsinfo" : "海龟斗篷礼包",
       "channel_goodsids" : {
         "app_store" : "com.netease.sky.SNC48"
       },
-      "price" : 98,
+      "price" : 30,
       "platform" : "ios",
       "gold" : 1,
       "channel_goodstypes" : {
