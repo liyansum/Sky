@@ -1,0 +1,7 @@
+#!name=Sky
+#!desc=尚未经过测试，生效与否未知
+
+[Script]
+http-response https:\/\/live-queue-sky-adr\.game\.163\.com\/queue requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/liyansum/Sky/main/Sky.js
+[MITM]
+hostname = live-queue-sky-adr.game.163.com
