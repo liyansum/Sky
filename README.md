@@ -1,4 +1,4 @@
-# Sky.conf
-光遇免排队
-# announcement.conf
-自定义光遇开始界面文字
+食用方法
+将sgmodule的链接添加到surge模块中即可
+
+注意：新季节更新后 排队的域名改了 所以圈x的conf失效了 因为目前没用圈x了 有空再改
