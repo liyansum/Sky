@@ -4,4 +4,4 @@
 [Script]
 http-response https:\/\/live-queue-sky-merge\.game\.163\.com\/queue requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/liyansum/Sky/main/Sky.js
 [MITM]
-hostname = live-queue-sky-merge.game.163.com
+hostname = %APPEND% live-queue-sky-merge.game.163.com
